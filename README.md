@@ -1,32 +1,25 @@
 # joshua-portfolio
 
-Joshua Obiora
+Joshua Portfolio: Week 1 Project
+A high-performance personal portfolio website designed to showcase my identity as a Systems Architect and Executive Operations Specialist.  
+🛠 Tech Stack
+ Frontend: HTML5, CSS3, JavaScript  
+ Design & Layout: Custom CSS for responsive layout systems  
+ Operational Integration: Google Workspace (Docs, Sheets, Calendar, Gmail), Notion, ClickUp, Zapier, and Calendly  
+🚀 Key Features
+ Architectural Identity: Clearly defines my role as a Systems Architect and Operations Engineer.  
+ Integrated Workflow Tools: Includes live links for inbox architecture, data reporting, and calendar optimization.  
+ Strategic Engagement: Features seamless booking integration via Calendly and direct consultation channels.  
+ Responsive Frontend: Engineered with custom layout systems for cross-device compatibility.  
+⚙️ How to Run
+1. Ensure you have Node.js installed on your system.  
+2. Clone the repository and navigate to the project folder.
+3. Install necessary dependencies (if using a build process): ⁠npm install⁠.  
+4. Open the ⁠index.html⁠ file in your preferred web browser.  
+5. If using a local server, start it using: ⁠node server.js⁠.
 
-Systems Architect & Operations Engineer
-I build digital nervous systems for businesses. As a Systems Architect, I specialize in designing resilient web infrastructure, automating complex operational workflows, and engineering high-performance frontend systems. My work is focused on replacing manual bottleneck  with streamlined, data-driven automation.
+🌐 Live Demo
+https://iamsalvation.github.io/joshua-portfolio/
+ View the Portfolio here
 
-⚙️ Architectural Competencies
-
-🏗 Operational Infrastructure
- Workflow Engineering: Designing and deploying automated systems via Zapier.
- Workspace Ecosystems: Architecting integrated environments using Google Workspace (Docs, Sheets, Calendar, Gmail).
- Process Optimization: Managing operational logic via Notion and ClickUp for seamless execution.
- 
-🖥 Frontend & Technical Architecture
- Interface Design: Engineering responsive, high-fidelity layouts using HTML5, CSS3, and JavaScript.
- System Integration: Developing custom digital tools that bridge frontend
- user experiences with backend data accuracy.
-
- 
-📅 Strategic Engagement
-I believe in demonstrating capability through live system design and active architectural proofs.
- Review My Digital Infrastructure Projects
- Schedule a System Strategy Consultation
- 
-🚀 Connect & Consult
-Let’s engineer a solution to optimize your operations.
- Email: obiorajoshua@gmail.com
- LinkedIn: linkedin.com/in/obiorajoshua
- GitHub: github.com/IamSalvation
- WhatsApp: Instant Chat
 Architecting digital nervous systems and operational integrity.
